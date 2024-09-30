@@ -1,5 +1,5 @@
 # Introduçao
-fizemos um projeto em que o led liga depedendo a luminozidade do local
+fizemos um projeto em que o led liga dependendo a luminozidade do local
 
 # Materias
 - 1 placa arduino
