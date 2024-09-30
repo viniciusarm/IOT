@@ -1,7 +1,7 @@
-#Introduçao
+# Introduçao
 nesse projeto fizemos um medidor de temperatura de ambiente onde pega a temperatura do local em grau celsius atravez de uma tela lcd
 
-#Materias 
+# Materias 
 -1 placa arduino
 -1 sensor de temperatura tmp
 -1 tela LCD
