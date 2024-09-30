@@ -13,7 +13,7 @@ este projeto foi criado para que os pedestre atravesse a rua com segurança, ele
 - 2 cabos macho
 - 7 resistos
 
-![Semafarointeligente](semaforointeligente.png)
+![Semafarointeligente](semafarointeligente.png)
 
 #Codigo
 
