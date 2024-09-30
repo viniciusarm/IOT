@@ -10,7 +10,7 @@ nesse projeto fizemos um medidor de temperatura de ambiente onde pega a temperat
 ![Medidor de temperatura projeto](sensordetemperatura.png)
 
 
-#Codigo
+# Codigo
 
 // BIBLIOTE LCD COM MODULO I2C
 #include <LiquidCrystal_I2C.h>
