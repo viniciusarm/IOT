@@ -12,7 +12,7 @@ fizemos um projeto em que utilizamos um componente chamado micro servo e conecta
   
 
 
-![BuzzerMusica](BUZZER.png)
+![BuzzerMusica](RoBoSegurança.png)
 
 #Codigo
 
