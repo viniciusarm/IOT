@@ -12,7 +12,7 @@ fizemos um projeto em que utilizamos um componente chamado micro servo onde ele 
 - 9 cabos
 
 
-![BuzzerMusica](BUZZER.png)
+![BuzzerMusica](Projeto_robo_servo.png)
 
 #Codigo
 
