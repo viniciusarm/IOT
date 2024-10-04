@@ -7,7 +7,7 @@ fizemos um projeto em que utilizamos um componente chamado piezo ele e um item q
 - 1 piezo
 
 
-![BuzzerMusica](BuzzerMusica.png)
+![BuzzerMusica](BUZZERMUSICA.png)
 
 #Codigo
 
