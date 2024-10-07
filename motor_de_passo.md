@@ -9,7 +9,7 @@ fizemos um projeto com um componente chamado motor de passo serve para movimenta
 - 6 fios
 
 
-imagem
+![titulo da imagem](arquivo.png)
 
 
 # Codigo
