@@ -9,7 +9,7 @@ fizemos um projeto com um componente chamado motor de passo serve para movimenta
 - 6 fios
 
 
-![titulo da imagem](arquivo.png)
+![Motor de passo](motor-de-passo-arduino-img4(1).png)
 
 
 # Codigo
